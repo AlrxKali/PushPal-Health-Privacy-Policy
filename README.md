@@ -2,7 +2,7 @@
 
 Last updated: 2025-08-08
 
-PushPal ("the App") is provided by [Your Company/Name] ("we", "us", or "our"). This policy explains what information we collect, how we use it, and your choices.
+PushPal ("the App") is provided by PushPal Health ("we", "us", or "our"). This policy explains what information we collect, how we use it, and your choices.
 
 We designed PushPal to collect only what is necessary to provide core features like creating posts, chatting, and receiving notifications. We do not sell your personal data and we do not run third‑party advertising SDKs.
 
@@ -90,9 +90,9 @@ We may update this policy from time to time. We will update the "Last updated" d
 
 ## 12) Contact Us
 
-- Email: [your-contact@email.com]
-- [Business Name]
-- [Postal Address (optional)]
+- Email: app.pushpal@gmail.com
+- PushPal Health
+- 83001
 
 ---
 
